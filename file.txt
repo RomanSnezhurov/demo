@@ -9,5 +9,9 @@ f
 
 fdfdfdgdggf
 
+<<<<<<< HEAD
 NEW LINE
 123213
+=======
+NEW LINE
+>>>>>>> 8b0b40d4ad88afdb15f7177911b8207ddf621c59
